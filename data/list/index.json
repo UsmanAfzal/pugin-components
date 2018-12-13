@@ -3,7 +3,11 @@
     "template": "layout"
   },
   "meta": {
+<<<<<<< HEAD
     "title": "view.components.list.title",
+=======
+    "title": "view.components.list.heading",
+>>>>>>> [WEBDEV-1103] Render data views
     "request-id": "|Pk5Jq3rkRal4MA==.",
     "open-graph": {
       "title": "List",
@@ -411,6 +415,37 @@
             "size": 2,
             "content": "shared.footer.uk-parliament"
           }
+<<<<<<< HEAD
+=======
+        },
+        "list-generic": {
+          "name": "list__generic",
+          "data": {
+            "type": "ul",
+            "display": {
+              "name": "partials__display",
+              "data": [
+                {
+                  "component": "list"
+                }
+              ]
+            },
+            "contents": [
+              {
+                "content": "shared.footer.current-website"
+              },
+              {
+                "content": "shared.footer.cookie-policy",
+                "data": {
+                  "link": "#"
+                }
+              },
+              {
+                "content": "shared.footer.data-protection-privacy"
+              }
+            ]
+          }
+>>>>>>> [WEBDEV-1103] Render data views
         }
       }
     }

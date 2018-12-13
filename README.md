@@ -42,7 +42,11 @@ make develop
 ```
 This runs foreman that starts the app and shunter erve
 
+<<<<<<< HEAD
 The application should now be available at [http://localhost:5500][local].
+=======
+The application should now be available at [http://localhost:5400][local].
+>>>>>>> [WEBDEV-1103] Render data views
 
 ## Using the Library
 To use the package, you need to add it and save it into the list of dependencies in your package.json file:

@@ -15,7 +15,11 @@ var app = shunter({
     localhost: {
       default: {
         host: '127.0.0.1',
+<<<<<<< HEAD
         port: 5501
+=======
+        port: 5401
+>>>>>>> [WEBDEV-1103] Render data views
       }
     }
   }
@@ -23,4 +27,8 @@ var app = shunter({
 });
 
 // Start the application
+<<<<<<< HEAD
 app.start();
+=======
+app.start();
+>>>>>>> [WEBDEV-1103] Render data views

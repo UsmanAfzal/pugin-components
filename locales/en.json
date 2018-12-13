@@ -1,6 +1,10 @@
 {
   "app": {
+<<<<<<< HEAD
     "title": "Pugin Components",
+=======
+    "title": "Pugin components",
+>>>>>>> [WEBDEV-1103] Render data views
     "description": "The node module which contains the components for Augustus.",
     "home": {
       "subheading#1": "Components"
@@ -113,27 +117,42 @@
     "components": {
       "title": "Components",
       "card": {
+<<<<<<< HEAD
         "title": "$t(view.components.card.heading) - $t(app.title)",
+=======
+>>>>>>> [WEBDEV-1103] Render data views
         "heading": "Card",
         "index": "<a href='{{-link}}'>$t(view.components.card.heading)</a>"
       },
       "form": {
+<<<<<<< HEAD
         "title": "$t(view.components.form.heading) - $t(app.title)",
+=======
+>>>>>>> [WEBDEV-1103] Render data views
         "heading": "Form",
         "index": "<a href='{{-link}}'>$t(view.components.form.heading)</a>"
       },
       "heading": {
+<<<<<<< HEAD
         "title": "$t(view.components.heading.heading) - $t(app.title)",
+=======
+>>>>>>> [WEBDEV-1103] Render data views
         "heading": "Heading",
         "index": "<a href='{{-link}}'>$t(view.components.heading.heading)</a>"
       },
       "icon": {
+<<<<<<< HEAD
         "title": "$t(view.components.icon.heading) - $t(app.title)",
+=======
+>>>>>>> [WEBDEV-1103] Render data views
         "heading": "Icon",
         "index": "<a href='{{-link}}'>$t(view.components.icon.heading)</a>"
       },
       "list": {
+<<<<<<< HEAD
         "title": "$t(view.components.list.heading) - $t(app.title)",
+=======
+>>>>>>> [WEBDEV-1103] Render data views
         "heading": "List",
         "index": "<a href='{{-link}}'>$t(view.components.list.heading)</a>",
         "meta": {
@@ -156,7 +175,10 @@
         }
       },
       "navigation": {
+<<<<<<< HEAD
         "title": "$t(view.components.navigation.heading) - $t(app.title)",
+=======
+>>>>>>> [WEBDEV-1103] Render data views
         "heading": "Navigation",
         "index": "<a href='{{-link}}'>$t(view.components.navigation.heading)</a>"
       }
